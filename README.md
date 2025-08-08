@@ -1,5 +1,9 @@
 # EDA BMI Case Study
-Understand the given data and find the key insides of the data. 
+Understand the given data and find the key insides of the data.
+
+##  Tools & Technologies Used
+`Python` · `Pandas` · `Numpy` · `Matplotlib` · `Seaborn` · `Scikit-learn`· `plotly`· `pyplot`· `statistics`· `scipy`· `pylab`· `rcParams`
+`json` · `Pearson coefficient of skewness` · `IQR`
 
 ## Create a Data Frame based on the input
 data= { 'price':[
@@ -56,10 +60,6 @@ Q20. A data scientist is researching the hypothesis that the average price of a 
         d. Complete the test and obtain the P-value.
         e. Summarize his conclusion based on the P-value
         
-##  Tools & Technologies Used
-`Python` · `Pandas` · `Numpy` · `Matplotlib` · `Seaborn` · `Scikit-learn`· `plotly`· `pyplot`· `statistics`· `scipy`· `pylab`· `rcParams`
-`json` · `Pearson coefficient of skewness` · `IQR`
-
 ##  Contributions
 Suggestions, improvements, and issues are welcome. Feel free to fork the repo or raise a pull request!
 
