@@ -1,6 +1,7 @@
-# EDA-BMI-Case-Study
+# EDA BMI Case Study
+Understand the given data and find the key insides of the data. 
 
-# Create a Data Frame based on the input
+## Create a Data Frame based on the input
 data= { 'price':[
 23, 30, 20, 27, 44, 26, 35, 20, 29, 29,
 25, 15, 18, 27, 19, 22, 12, 26, 34, 15,
@@ -8,7 +9,7 @@ data= { 'price':[
 40, 35, 38, 57, 22, 42, 24, 21, 27, 33
 ]}
 
-# Questions 
+## Questions 
 Q1 - Compute the mean, median and the mode of the data
 
 Q2. Compute the range, variance and standard deviation of Price
@@ -54,8 +55,16 @@ Q20. A data scientist is researching the hypothesis that the average price of a 
         c. What statistical test will be used to compare these prices?
         d. Complete the test and obtain the P-value.
         e. Summarize his conclusion based on the P-value
+        
+##  Tools & Technologies Used
+`Python` · `Pandas` · `Numpy` · `Matplotlib` · `Seaborn` · `Scikit-learn`· `plotly`· `pyplot`· `statistics`· `scipy`· `pylab`· `rcParams`
+`json` · `Pearson coefficient of skewness` · `IQR`
 
+##  Contributions
+Suggestions, improvements, and issues are welcome. Feel free to fork the repo or raise a pull request!
 
-
-
+## Contact
+**Rasika Vispute**  
+Email: rasikavispute32@gmail.com 
+LinkedIn: https://www.linkedin.com/in/rasikavispute/
 
